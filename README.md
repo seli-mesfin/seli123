@@ -1,3 +1,11 @@
+<div align="center">
+  <h1>Resume</h1>
+  <p>Click below to download my resume:</p>
+  <a href="https://github.com/seli-mesfin/YOUR_REPO_NAME/raw/main/Selamawit_Mesfin_CV.pdf">
+    <img src="https://img.shields.io/badge/Download%20Resume-2D88FF?style=for-the-badge&logo=cv&logoColor=white" height="40">
+  </a>
+</div>
+
 👋 Hi, I'm Selamawit Mesfin
 I’m an Information Systems student who builds full-stack web applications.  
 I focus on creating clean, functional systems that solve real-world problems.
