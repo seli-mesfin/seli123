@@ -1,1 +1,70 @@
-# seli123
+👋 Hi, I'm Selamawit Mesfin
+I’m an Information Systems student who builds full-stack web applications.  
+I focus on creating clean, functional systems that solve real-world problems.
+
+
+ 👩‍💻 About Me
+🎓 Information Systems student (3rd year)
+  💻 Full-stack web developer
+ 🌐 Built and deployed a real-world web application
+ 🎯 Goal: Build scalable and impactful systems
+
+
+🛠 Skills
+ 💻 Languages
+ JavaScript
+ Java
+ SQL
+ HTML & CSS
+ C#
+
+⚙️ Frameworks & Technologies
+ React (Frontend)
+ Next.js (Backend)
+ Supabase (Database & Authentication)
+ .NET (Windows Forms)
+
+🧰 Tools
+ Git & GitHub
+ VS Code
+ Figma
+
+🎯 Core Focus
+ Full-Stack Web Development
+ Responsive Design
+ System Design & Implementation
+ Clean and Functional UI
+
+
+🚀 Projects
+
+📌 Catering Marketplace System (Live)
+A full-stack web platform where caterers post services and users can browse, review, and place orders.
+
+Key Features:
+Role-based system (Admin, User, Caterer)
+ Service listing and ordering system
+ Authentication and database integration
+ Clean, responsive interface
+
+
+🔗 Live Demo: *(add your deployed link here)*  
+🔗 GitHub Repo: *(add repo link here)*  
+
+
+📌 Library Management System (Java OOP)
+A system for managing books, users, and borrowing using object-oriented design.
+
+Key Features:
+- Structured class design
+- Data handling logic
+- Clear and maintainable code
+
+
+## 📫 Contact Me
+- 📧 Email: selishama23@gmail.com  
+- 💬 Telegram:https://t.me/Selisha_7
+
+---
+
+⭐️ *“Built with purpose. Deployed with confidence.”*
