@@ -64,6 +64,7 @@ Key Features:
 ## 📫 Contact Me
 - 📧 Email: selishama23@gmail.com  
 - 💬 Telegram:https://t.me/Selisha_7
+- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selamawit-mesfin-08574935b)
 
 ---
 
