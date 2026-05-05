@@ -47,8 +47,7 @@ Role-based system (Admin, User, Caterer)
  Authentication and database integration
  Clean, responsive interface
 
-
-🔗 Live Demo: [[*(add your deployed link here)*](https://mirt-taem-frontend.vercel.app/).
+🔗 Live Demo: [https://mirt-taem-frontend.vercel.app/](https://mirt-taem-frontend.vercel.app/)
 🔗 GitHub Repo:[https://github.com/seli-mesfin/mirt-taem-frontend](https://github.com/seli-mesfin/mirt-taem-frontend) 
 
 📌 Mirt Tech (ምርት tech): An agricultural marketplace built with Next.js and Supabase that connects farmers with exporters. 
