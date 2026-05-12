@@ -5,76 +5,58 @@
     <img src="https://img.shields.io/badge/Download%20Resume-2D88FF?style=for-the-badge&logo=cv&logoColor=white" height="40">
   </a>
 </div>
-👋 Hi, I'm Selamawit Mesfin
-I’m an Information Systems student who builds full-stack web applications.  
-I focus on creating clean, functional systems that solve real-world problems.
-
+I’m an Information Systems student who builds frontend web applications.  
+I focus on creating clean, intuitive, and responsive user interfaces that solve real-world problems.
 
  👩‍💻 About Me
 🎓 Information Systems student (3rd year)
-  💻 Full-stack web developer
+ Frontend developer with a passion for UI/UX
  🌐 Built and deployed a real-world web application
  🎯 Goal: Build scalable and impactful systems
 
 
-🛠 Skills
- 💻 Languages
- JavaScript
- Java
- SQL
- HTML & CSS
- C#
-
 ⚙️ Frameworks & Technologies
- React (Frontend)
- Next.js (Backend)
- Supabase (Database & Authentication)
- .NET (Windows Forms)
+🎨 UI & Frontend
+React & Next.js
+JavaScript (ES6+)
+ HTML5 & CSS3 (Responsive Design)
+ Figma (UI/UX Design)
 
 🧰 Tools
  Git & GitHub
  VS Code
- Figma
+ Supabase (Frontend-side Authentication & Data Fetching)
+ Vercel (Deployment)
 
 🎯 Core Focus
- Full-Stack Web Development
- Responsive Design
- System Design & Implementation
- Clean and Functional UI
+Component-Based Architecture
+Responsive & Mobile-First Design
+State Management
+API Integration
 
 
 🚀 Projects
 
 📌 Catering Marketplace System (Live)
-A full-stack web platform where caterers post services and users can browse, review, and place orders.
-
-Key Features:
-Role-based system (Admin, User, Caterer)
- Service listing and ordering system
- Authentication and database integration
- Clean, responsive interface
+A sleek, role-based web platform for catering services.
+Focus: Crafted the entire user journey, from browsing listings to placing orders.
+Key Features: Clean UI, responsive layouts, and interactive role-based dashboards.
 
 🔗 Live Demo: [https://mirt-taem-frontend.vercel.app/](https://mirt-taem-frontend.vercel.app/)
 🔗 GitHub Repo:[https://github.com/seli-mesfin/mirt-taem-frontend](https://github.com/seli-mesfin/mirt-taem-frontend) 
 
-📌 Mirt Tech (ምርት tech): An agricultural marketplace built with Next.js and Supabase that connects farmers with exporters. 
-It features real-time data sync, crop registries, and contract management.
-
+📌 An agricultural marketplace interface connecting farmers with exporters.
+Focus: Implementing real-time data visualization and complex form management using Next.js.
+Key Features: Dynamic crop registries and contract management UI.
 🔗 Live Demo:[ https://mirt-tech-2fop.vercel.app/](https://mirt-tech-2fop.vercel.app/)
 🔗 GitHub Repo: [https://github.com/seli-mesfin/mirt-tech](https://github.com/seli-mesfin/mirt-tech).
 
 
 
 📌 Library Management System (Java OOP)
-A system for managing books, users, and borrowing using object-oriented design.
+AFocused on structured logic and clean class design for internal management tools.
 
-Key Features:
-- Structured class design
-- Data handling logic
-- Clear and maintainable code
-
-
-## 📫 Contact Me
+ 📫 Contact Me
 - 📧 Email: selishama23@gmail.com  
 - 💬 Telegram:https://t.me/Selisha_7
 - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selamawit-mesfin-08574935b)
